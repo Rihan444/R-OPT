@@ -26,6 +26,7 @@
 </body>
 </html>
 
+##package install
 
 apt update
 
